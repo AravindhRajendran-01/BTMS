@@ -25,4 +25,4 @@ This hybrid thermal management system represents a significant advancement in ba
 Mentors: [Dr. Murugan P C](https://www.linkedin.com/in/dr-p-c-murugan-05772859/), [Nithyanandhan K](https://www.linkedin.com/in/nithyanandhan-kamaraj-84aa93141/)
 Team Mates: [Adhitya L.S](https://www.linkedin.com/in/adhitya-l-s-467065226/), [Aravind R](https://www.linkedin.com/in/imaravindr02/), [Aruvi B](https://www.linkedin.com/in/aruvib/), [Karthik S](https://www.linkedin.com/in/karthik-s-83296b224/), [Santhosh singh R](https://www.linkedin.com/in/santhosh-singh-r-3b6a4b24b/)
 
-For more information, [Click Here](https://github.com/Aruvi-B/Battery-Thermal-Management-System/).
+For more information, [Click Here](https://github.com/AravindhRajendran-01/BTMS).
